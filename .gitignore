@@ -1,0 +1,8 @@
+# Compiled C
+*.o
+
+# Static Libraries
+*.a
+
+# Shared Objects
+*.so
