@@ -1,9 +1,9 @@
 # Bradford Smith
 # Makefile for ubits
-# 05/29/2016
+# 05/31/2016
 ################################################################################
 
-LIB= ubits.a
+LIB= libubits.a
 SRC= str2vect.c free_vect.c
 OBJ=$(SRC:.c=.o)
 CC=gcc
